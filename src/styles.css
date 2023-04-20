@@ -1,0 +1,42 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  width: 100%;
+  font-size: 62.5%;
+}
+
+.container {
+  margin: 0.25rem;
+  width: 100%;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  color: #333;
+}
+
+.list {
+  padding: 1rem 0rem 2rem 1rem;
+  box-shadow: rgba(33, 35, 38, 0.1) 0px 3px 3px -3px;
+}
+
+.departmentList {
+  display: flex;
+  margin: 1rem;
+  line-height: 0.5rem;
+}
+
+h2 {
+  margin: 0;
+  font-weight: bold;
+}
+
+p {
+  letter-spacing: 0.08 rem;
+}
+
+a {
+  margin: 0 0.5rem;
+  color: #1488cc;
+}
+
+a:hover {
+  color: black;
+}
